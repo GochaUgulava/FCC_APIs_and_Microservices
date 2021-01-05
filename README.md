@@ -9,8 +9,8 @@ By working on projects you would have the opportunity of applying all the skills
 
 In this section you get the chance to:
 
-Build a Timestamp Microservice
-Build a Request Header Parser Microservice
-Build a URL Shortener Microservice
-Build a Exercise Tracker
-Build a File Metadata Microservice
+Build a Timestamp Microservice <br>
+Build a Request Header Parser Microservice <br>
+Build a URL Shortener Microservice <br>
+Build a Exercise Tracker <br>
+Build a File Metadata Microservice <br>
